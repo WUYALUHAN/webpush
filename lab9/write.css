@@ -1,0 +1,248 @@
+body{
+	width: 1350px;
+	height: 1400px;
+}
+/*网页头部的样式*/
+.header{
+	width: 1350px;
+	height: 205px;
+	background-image: url(image/bg.gif);	
+}
+.banner{
+	height: 40px;
+	width: 100px;
+	position: relative;
+	top: 30px;
+	left: 40px;
+}
+.nav{
+	height: 30px;
+	width: 1200px;
+}
+.nav-body{
+	background-image: url(image/nav.jpg);
+	height: 40px;
+	width: 1350px;
+	position: relative;
+	top: 110px;
+}
+.nav-content ul{
+	list-style: none;
+}
+.nav-content ul li{
+	float: left;
+	margin-right: 15px;
+}
+.nav-content ul li a{
+	color: #ffffff;
+	position: relative;
+	top: 9px;
+	text-decoration: none;
+}
+.nav-content ul li a:hover{
+	color: #f9f603;
+}
+#first{
+	color:#f9f603; 
+}
+.nav-search form{
+	float: right;
+	margin-right:120px; 
+	height: 20px;
+	position: relative;
+	top: 6px;
+}
+.nav-search input[type='text']{
+	background-color: #f8f5ee;
+}
+.nav-search input[type='button']{
+	border: 1px solid #f8f5ee;
+	background-color: #000;
+	width: 50px;
+	color: #fff;
+}
+/*网页中间的样式*/
+.content{
+	width: 1350px;
+	height: 800px;
+	background-image: url(image/bodybg.gif);
+	height: 820px;
+}
+.content-top{
+	width: 1350px;
+	height: 280px;
+}
+.news-pic{
+	background-image: url(image/news_bg.png);
+	height: 242px;
+	width:324px; 
+	float: left;
+	text-align: center;
+}
+/*培训动态*/
+.news-list{
+	width: 500px;
+	margin-left: 38px;
+	float: left;
+	font-size: 10px;
+    line-height: 29px;
+}
+.news-list ul li a{
+        text-decoration: none;
+       color: brown;
+}
+.news-list span{
+	float: right;
+}
+#more{
+	float: right;
+	margin-right: 4px;
+}
+/*站内公告*/
+.news-announce{
+	width: 400px;
+	height: 300px;
+	margin-left: 38px;
+	float: right;
+	background-image: url(image/board_bg.png);
+	background-repeat: no-repeat;
+	background-size:320px 200px;
+	background-position: 10px 45px;
+	font-size: 10px;
+    line-height: 29px;
+}
+.an{
+   float: right;
+   margin: 10px 180px;
+}
+.news-announce ul li a{
+        text-decoration: none;
+        color: brown;
+}
+/*中间盒子*/
+.content_left{
+	width: 800px;
+	height: 1200px;
+	float: left;
+}
+/*学术争鸣*/
+.academic{
+	width: 400px;
+	margin-left: 20px;
+	float: left;
+	font-size: 10px;
+    line-height: 29px;
+}
+.academic ul li a{
+        text-decoration: none;
+        color: brown;
+}
+.academic span{
+	float: right;
+}
+.academic ul li a{
+        text-decoration: none;
+        color: brown;
+}
+/*书坛新闻*/
+.book_news{
+	width: 400px;
+	margin-left: 30px;
+	float: left;
+	font-size: 10px;
+    line-height: 29px;
+}
+.book_news ul li a{
+        text-decoration: none;
+        color: brown;
+}
+.book_news span{
+	float: right;
+}
+/*燕赵风采样式*/
+.fengcai{
+	width: 800px;
+	height: 600px;
+	margin-left: 15px;
+	background-image: url(image/fengcai_bg2.png);
+	background-repeat: no-repeat;	
+	background-position: 30px 350px;
+}
+.fengcai ul{
+	list-style: none;
+}
+.fengcai ul li{
+	float: left;
+	margin-right: 15px;
+}
+/*右侧的样式*/
+.content-right{
+	width: 400px;
+	height: 900px;
+}
+.m1{
+	float: right;
+	position: relative;
+	bottom: 580px;
+	left: 800px;
+}
+.m2{
+	width: 400px;
+	height: 900px;
+	background-image: url(image/show_bg.png);
+	background-repeat: no-repeat;
+	position: relative;
+	bottom: 530px;
+	left: 950px;
+	background-size: 380px 450px;
+}
+.mingjia{
+	float: right;
+	position: relative;
+	top: 20px;
+	right: 0px;
+}
+p{
+	font-size: 16px;
+	line-height: 30px;
+	color: brown;
+	text-align: center;
+}
+.view{
+	float: right;
+	margin: 20px 60px;
+}
+/*网页页脚的样式*/
+.footer{
+	background-image: url(image/foot.gif);
+	background-repeat: no-repeat;
+	width: 1350px;
+	height: 350px;
+}
+.f1 ul{
+	list-style: none;
+}
+.f1 ul li{
+	float: left;
+	clear: right;
+	margin: 10px;
+}
+.f1 ul li a{
+	color: brown;
+	position: relative;
+	bottom: 70px;
+	text-decoration: none;
+
+}
+.f2{
+	position: relative;
+	top: 15px;
+	left: 400px;
+}
+.f3{
+	text-align: center;
+	position: relative;
+	bottom: 70px;
+	clear: right;
+	clear: left;
+}
