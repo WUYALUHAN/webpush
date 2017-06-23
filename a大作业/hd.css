@@ -47,16 +47,14 @@ a:hover{
 	position: relative;
 	left:500px;
 }
-#c3{
-	width:44px;
+.c3{
+	/*width:44px;
 	height:21px;
-	background-color:#000;
 	color:#fff;
 	border:1px solid #f8f5ee;
-	float:right;
 	position: relative;
-	left:248px;
-
+	left:100px;*/
+	float:right;
 }
 .body{
 	width:1200px;

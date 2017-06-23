@@ -2,7 +2,10 @@
 body{
 	background-size: 1500px 1500px;
 }
-	
+.c3{
+	position: relative;
+	left:250px;
+}	
 p{
 	font-family:宋体;
 	color:grey;
