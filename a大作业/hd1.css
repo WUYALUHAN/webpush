@@ -1,0 +1,90 @@
+
+body{
+	background-size: 1500px 1500px;
+}
+	
+p{
+	font-family:宋体;
+	color:grey;
+}
+.xiang{
+	margin:3px 100px 2px 15px;
+	width:;
+}
+.submit{
+	background-image: url(img/heiban.jpg);
+	background-size: 260px 360px;
+	float:right;
+	position:relative;
+	bottom:360px;
+	left:270px;
+}
+.image{
+		margin:3px;
+		margin-left:15px;
+		border:1px solid #bebebe;
+		height:auto;
+		width:auto;
+		float:left;
+		text-align:center;
+}
+image img{
+		display:inline;
+		margin:3px;
+		border:1px solid #bebebe;
+		width:170px;
+		height:241px;
+		float:left;
+}
+.desc{
+    text-align:center;
+    font-weight:normal;
+    width:80px;
+    font-size:10px;
+    margin:10px 5px 10px 5px;
+}
+
+.body-middle{
+	width:958px;
+	height:370px;
+	margin-left: 203px;
+}
+.body-right{
+	width:215px;
+	height:345px;
+	float:right;
+	padding-left:10px;
+	position: relative;
+	bottom: 350px;
+	left: 230px;
+	border:1px solid grey;
+}
+.image1{
+	width:320px;
+	height:230px;
+	float:left;
+	border:1px solid grey;
+	position:relative;
+	bottom:520px;
+	left:0px;
+	margin:5px;
+	padding:5px;
+	text-align:center;
+}
+.leg{
+	width:1440px;
+	height:600px;
+}
+.leg-left{
+	width:890px;
+	margin-left: 203px;
+}
+.leg-right{
+	width:310px;
+	height:500px;
+	margin:auto;
+	float:right;
+}
+/*div{
+	border:solid;
+}*/

@@ -1,0 +1,77 @@
+body{
+	padding:0px;
+	background-image: url(img/beijing1.png);
+	background-repeat: no-repeat;
+}
+.header{
+	width:1158px;
+}
+.logo{
+	background-image: url(img/logo.jpg);
+	width:200px;
+	height:350px;
+	background-repeat:no-repeat;
+	background-size: 200px 350px;
+	float:left;
+}
+.banner{
+	background-image:url(img/banner0.jpg.png);
+	background-repeat:no-repeat;
+	background-size: 960px 350px;
+	width:960px;
+	height:350px;
+	margin-left:200px;
+}
+a:link{
+	text-decoration:none;
+	
+}
+a:hover{
+	text-decoration:underline;
+	color:blue;
+}
+.nav{
+	background-image:url(img/29.png);
+	background-repeat:repeat-x;
+	width:940px;
+	height:30px;
+	font-size:border;
+	padding:10px;
+	margin-left:200px;
+}
+#c2{
+	width:140px;
+	height:19px;
+	background-color:#f8f5ee;
+	padding-right:1px;
+}
+#c3{
+	width:44px;
+	height:21px;
+	background-color:#000;
+	color:#fff;
+	border:1px solid #f8f5ee;
+	float:right;
+}
+.body{
+	width:1200px;
+
+}
+.body-left{
+	background-image:url(img/bodyll.jpg);
+	background-size:200px 567px;
+	width:210px;
+	height:800px;
+	background-repeat:no-repeat;
+	float:left;
+}
+p{
+	text-indent:2em;
+}
+.last{
+	width:970px;
+	height:40px;
+	margin-left: 200px;
+	text-align: center;
+	color:grey;
+}
