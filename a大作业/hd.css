@@ -43,7 +43,9 @@ a:hover{
 	width:140px;
 	height:19px;
 	background-color:#f8f5ee;
-	padding-right:1px;
+	padding-right:10px;
+	position: relative;
+	left:500px;
 }
 #c3{
 	width:44px;
@@ -52,6 +54,9 @@ a:hover{
 	color:#fff;
 	border:1px solid #f8f5ee;
 	float:right;
+	position: relative;
+	left:248px;
+
 }
 .body{
 	width:1200px;
